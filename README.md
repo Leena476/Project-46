@@ -1,2 +1,2 @@
-# Project-46
-Make Your Own Game - 3
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
